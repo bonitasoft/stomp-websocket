@@ -2,6 +2,8 @@
 
 This library provides a STOMP client for Web browser (using Web Sockets) or node.js applications (either using raw TCP sockets or Web Sockets).
 
+It has been forked to remove the "websocket" optional dependency, which cause some issues in UID.
+
 # Project Status
 
 __This project is _no longer maintained_ ([some context about this decision](http://jmesnil.net/weblog/2015/09/04/stepping-out-from-personal-open-source-projects/)).__

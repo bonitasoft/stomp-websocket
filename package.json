@@ -15,9 +15,6 @@
     "docco": "latest",
     "connect": "latest"
   },
-  "optionalDependencies": {
-    "websocket": "latest"
-  },
   "directories": {
     "doc": "doc",
     "example": "example",
